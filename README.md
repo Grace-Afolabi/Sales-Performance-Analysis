@@ -69,6 +69,7 @@ The dataset includes:
 
 Project File
 <img width="1296" height="643" alt="Adidas Sales Performance Dashbard" src="https://github.com/user-attachments/assets/450dd853-0c03-4a19-806d-6af880719836" />
+[Adidas US Sales Database Project (Grace Afolabi).xlsx](https://github.com/user-attachments/files/23600274/Adidas.US.Sales.Database.Project.Grace.Afolabi.xlsx)
 
 ---
 
