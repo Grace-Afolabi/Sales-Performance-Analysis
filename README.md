@@ -9,7 +9,7 @@ The dashboard enables quick decision-making by highlighting sales drivers, profi
 
 ---
 
-## 🎯 **Objectives**
+## **Objectives**
 
 * Explore overall sales performance across U.S. regions. 
 * Identify top-performing products and underperforming categories. 
@@ -19,7 +19,7 @@ The dashboard enables quick decision-making by highlighting sales drivers, profi
 * Provide business recommendations to improve sales and profitability.
 ---
 
-## 🛠 **Tools Used**
+## **Tools Used**
 
 * **Microsoft Excel** – Data cleaning, transformation, and dashboard design
 * **Pivot Tables & Pivot Charts** – Aggregations and insights
@@ -42,7 +42,7 @@ The dataset includes:
 
 ---
 
-## 📈 **Key Insights**
+## **Key Insights**
 
 * The West region generated the highest total sales of $269.9M followed by the Northeast region ($186.3M). Midwest region generated the lowest revenue ($135.8M)
 * Top performing product categories were Men's street footwear, Women's apparel and Men's athletic footwear while the underperforming were Women's street footwear, Men's apparel. Women’s Athletic Footwear generates the lowest revenue but its margin (42%) ranks 3rd, indicating profitable operations but low demand.
@@ -54,7 +54,7 @@ The dataset includes:
 
 ---
 
-## 🧩 **Dashboard Features**
+## **Dashboard Features**
 
 * **Interactive slicers** for year, product, city, and month
 * **KPI cards** highlighting total sales and total operating profit
@@ -73,7 +73,7 @@ Project File
 
 ---
 
-## 🚀 **How to Use**
+## **How to Use**
 
 1. Download the Excel dashboard file
 2. Enable content if Excel prompts you
